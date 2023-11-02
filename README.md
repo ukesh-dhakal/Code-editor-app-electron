@@ -6,4 +6,4 @@ git clone https://github.com/ukesh-dhakal/Code-editor-app-electron/
  cd code-editor-app-electron
  npm start
 
-<img src="Screenshot from 2023-11-01 15-56-55.png">
+<img src="image.png">
